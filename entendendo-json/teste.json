@@ -2,5 +2,9 @@
     "nome": "Antonio",
     "idade": 30,
     "esta_trabalhando": true,
+    "detalhes_profissao": {
+        "profissao": "Programador Front-End",
+        "empresa": "Freelance"
+    },
     "hobbies": ["Treinar", "Programar", "Caminhar"]
 }
